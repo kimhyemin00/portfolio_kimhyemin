@@ -20,13 +20,13 @@ padding-top: 50px; }
 .nav1 li{margin-left: 50px; padding-top: 25px; padding-bottom:30px;}
 .nav1 li a{color: #ffffff; margin: 2px; }
 .nav1 img{ margin-right: 622px; height: 50px;margin-top: 6px;}
-nav > ul > li > a:hover{font-weight: 700;color: #ffaa00; border-bottom: 3px solid #ffaa00; transition: all 0.2s ease-in-out; }
+nav > ul > li > a:hover{font-weight:400;color: #ffaa00; border-bottom: 3px solid #ffaa00; transition: all 0.2s ease-in-out;}
 
 
 
 
 .bg{width: 100%; height: 816px;background-size: cover;background-position: center;justify-content: center;align-items: center;}
-.bg1{width: 100%; height:816px; background-image: url('../img/main.jpg');background-position: center;}
+.bg1{width: 100%; height:816px; background-image: url('../img/main.gif');background-position: center;}
 .nav{width: 100%; height: 110px; background-color: rgba(245,20,20,0.2);}
 
 .contents_01{width: 100%;height: 550px; background-color: #242424;}
@@ -56,11 +56,22 @@ padding-top: 80px;}
 
 .contents_10{width: 1020px; height: 875px;margin: 0 auto; padding-top: 90px;}
 
-.contents_11{widows: 100%; height: 700px; background-color: #F5F5F5; margin-top:130px;}
+.contents_11{width: 100%; height: 600px;margin: 0 auto; padding-top: 100px;
+background-color: #242424;}
+.artwork_07{width: 1017px; height:490px; margin: 0 auto;}
 
+.contents_12{width: 1020px; height: 781px; background-color: #F5F5F5; margin-top:130px;
+margin: 0 auto; padding-top: 100px;}
 
+.contents_13{width: 100%; height: 700px; background-color: #F5F5F5; margin-top:130px;}
 
+.contents_14{width: 1020px; height: 650px; background-color: #F5F5F5;
+margin: 0 auto;}
 
+.contents_15{width: 1020px; height: 595px; background-color: #F5F5F5; 
+margin: 0 auto; padding-top: 60px; padding-bottom: 150px;}
+
+.contents_16{width: 100%; height:490px; background-color: #F5F5F5; margin-top:50px; margin-bottom: 260px;}
 
 .con01 img{width: 100%; height: 550px;}
 .con02 img{width: 100%; height: 875px;}
@@ -68,7 +79,8 @@ padding-top: 80px;}
 .con04 img{width: 100%;}
 .con05 img{width: 100%;}
 .con08 img{width: 100%;}
-.con11 img{width: 100%;}
+.con13 img{width: 100%;}
+.con16 img{width: 100%;}
 
 
 .art01 img{width:1045px; height: 1260px;}
